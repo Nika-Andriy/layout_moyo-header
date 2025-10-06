@@ -75,7 +75,7 @@ html {
   text-underline-offset: 0;
 }
 
-.multi-element:hover {
+.nav__link--multiline:hover {
   text-decoration: none;
   color: #00acdc;
 }
