@@ -77,7 +77,7 @@ html {
 
 .nav__link--multiline:hover {
   text-decoration: none;
-  color: #00acdc;
+  color: var(--color-blue);
 }
 
 .is-active::after {
