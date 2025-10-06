@@ -71,6 +71,7 @@ html {
   text-decoration-color: var(--color-blue);
   text-decoration-thickness: 2px;
   text-underline-offset: 0;
+  color: var(--color-blue);
 }
 
 .nav__link--multiline:hover {
