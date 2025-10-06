@@ -62,10 +62,8 @@ html {
 
 .header__logo {
   cursor: pointer;
-  height: 40px;
   width: 40px;
-  padding-top: 10px;
-  padding-bottom: 10px;
+  max-height: 40px;
 }
 
 .nav__link:hover {
