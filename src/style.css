@@ -95,6 +95,6 @@ html {
   border-radius: 8px;
 }
 
-.nav__link[href='#apple'] {
+.nav__link.is-active {
   color: var(--color-blue);
 }
